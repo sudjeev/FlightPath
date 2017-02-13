@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "15.4.2",
-    "react-native": "^0.39.2",
+    "react-native": "^0.41",
     "react-native-maps": "^0.12.4",
     "realm": "^1.0.2"
   },
